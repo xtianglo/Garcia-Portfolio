@@ -57,6 +57,7 @@ h2{
 }
 
 h3 {
+    display: flex;
     color: #333;
     margin: 0;
 }
